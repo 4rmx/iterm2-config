@@ -1,0 +1,1 @@
+## Iterm2 configuration
